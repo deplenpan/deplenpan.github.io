@@ -3,11 +3,11 @@
   <title>FightingCoder</title>
   
   <subtitle>Fighting for better life</subtitle>
-  <link href="/blog/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://deplenpan.github.io/blog/"/>
+  <link href="https://deplenpan.github.io/"/>
   <updated>2019-12-06T06:23:18.801Z</updated>
-  <id>https://deplenpan.github.io/blog/</id>
+  <id>https://deplenpan.github.io/</id>
   
   <author>
     <name>Jiajun Pan</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://deplenpan.github.io/blog/2019/12/06/hello-world/"/>
-    <id>https://deplenpan.github.io/blog/2019/12/06/hello-world/</id>
+    <link href="https://deplenpan.github.io/2019/12/06/hello-world/"/>
+    <id>https://deplenpan.github.io/2019/12/06/hello-world/</id>
     <published>2019-12-06T06:23:18.801Z</published>
     <updated>2019-12-06T06:23:18.801Z</updated>
     
